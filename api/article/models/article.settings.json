@@ -37,6 +37,10 @@
       "plugin": "users-permissions",
       "collection": "user",
       "via": "article"
+    },
+    "categories": {
+      "collection": "category",
+      "via": "article"
     }
   }
 }

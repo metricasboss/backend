@@ -19,6 +19,10 @@
     "faq": {
       "via": "categories",
       "model": "faq"
+    },
+    "article": {
+      "via": "categories",
+      "model": "article"
     }
   }
 }
