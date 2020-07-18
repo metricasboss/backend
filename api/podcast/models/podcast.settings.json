@@ -32,6 +32,10 @@
     "slug": {
       "type": "uid",
       "targetField": "title"
+    },
+    "formats": {
+      "collection": "format",
+      "via": "podcast"
     }
   }
 }

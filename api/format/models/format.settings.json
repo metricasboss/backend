@@ -15,6 +15,10 @@
     "slug": {
       "type": "uid",
       "targetField": "name"
+    },
+    "podcast": {
+      "via": "formats",
+      "model": "podcast"
     }
   }
 }
