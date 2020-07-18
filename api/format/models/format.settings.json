@@ -2,7 +2,7 @@
   "kind": "collectionType",
   "collectionName": "formats",
   "info": {
-    "name": "formats"
+    "name": "format"
   },
   "options": {
     "increments": true,
