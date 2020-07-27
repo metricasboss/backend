@@ -38,9 +38,9 @@
       "collection": "user",
       "via": "article"
     },
-    "categories": {
-      "collection": "category",
-      "via": "article"
+    "category": {
+      "model": "category",
+      "via": "articles"
     }
   }
 }
