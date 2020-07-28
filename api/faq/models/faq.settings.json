@@ -15,9 +15,9 @@
     "answer": {
       "type": "richtext"
     },
-    "categories": {
-      "collection": "category",
-      "via": "faq"
+    "category": {
+      "model": "category",
+      "via": "faqs"
     }
   }
 }

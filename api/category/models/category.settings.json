@@ -16,13 +16,13 @@
       "type": "uid",
       "targetField": "name"
     },
-    "faq": {
-      "via": "categories",
-      "model": "faq"
-    },
     "articles": {
       "via": "category",
       "collection": "article"
+    },
+    "faqs": {
+      "via": "category",
+      "collection": "faq"
     }
   }
 }
