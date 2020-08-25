@@ -1,0 +1,12 @@
+{
+    "provider": "aws-s3",
+    "providerOptions": {
+        "accessKeyId": "AKIA5GKCZVA5YEDWSZB2",
+        "secretAccessKey": "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",
+        "region": "us-east-1",
+        "params": {
+          "Bucket": "imagens.metricasboss.com.br"
+        }
+        
+    }
+}
